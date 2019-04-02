@@ -17,7 +17,7 @@ def jumpingOnClouds(n, c):
 
     return jumps
 
-# A more general function that computes number of jumps accordingly to the size of max jumps
+# A more general function that computes number of jumps accordingly to the size of max jump
 def jumpingOnCloudsRange(n, c, max_jump):
     jumps = 0
     index = 0
